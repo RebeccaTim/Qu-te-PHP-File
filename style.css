@@ -1,0 +1,9 @@
+.images {
+	width: 250px; 
+	height: auto;
+	box-shadow: 5px 5px 20px;
+}
+.col {
+	min-height: 400px !important;
+	text-align: center;
+}
